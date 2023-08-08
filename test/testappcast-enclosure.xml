@@ -8,7 +8,6 @@
         <pubDate>Sat, 26 Jul 2023 15:20:11 +0000</pubDate>
         <enclosure url="https://cutter.vr186.com/public/app-release.apk" sparkle:version="2.0.0" sparkle:os="android" />
         <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
-        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
 </rss>
